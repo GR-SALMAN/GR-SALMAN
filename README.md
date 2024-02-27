@@ -4,6 +4,11 @@
 
 <p align="left">I'm Golam Rabbani Salman, noob programmer from Bangladesh. Did graduation in Computer Science and now sticking with programming stuff XD.</p>
 
+
+###
+
+###
+
 ###
 
 <h3 align="left">About me</h3>
@@ -12,7 +17,7 @@
   <br>🤔 I’m looking for help: React.js and Python also
   <br>📫 How to reach me: It's quite easy! just go through my main profile and right under my PP you're gonna find links to get in
   <br>😄 Pronouns: The full form of my surname G.R. stands for Golam Rabbani.
-<h3 align="left">I code with</h3>
+<h3 align="left">I code with (For now)</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="javascript" />
   <img width="6" />
@@ -27,14 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="python" />
 </div>
 
-###
-
-
-
 <h3 align="left">You can check out my initial stats below:</h3>
 
-###
+![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-<p align="left">![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)</p>
 
-###
+
