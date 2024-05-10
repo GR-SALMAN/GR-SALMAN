@@ -36,5 +36,5 @@
 
 ![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-
+[![GR-Salman's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
