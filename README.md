@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up Stranger!</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 <p align="left">✨ Creating bugs: Since 2020<br>🌱 I’m currently learning full stack web developing
   <br>🎯 Goals: To be a native full-stack web developer
   <br>🤔 I’m looking for help: React.js and Python also
-  <br>📫 How to reach me: It's quite easy! just go through my main profile and right under my PP you're gonna find links to get in
+  <br>📫 How to reach me: It's quite easy! Right under my Avatar (Dp or whatever) you're gonna find links to check in
   <br>😄 Pronouns: The full form of my surname G.R. stands for Golam Rabbani.
 <h3 align="left">I code with (For now)</h3>
 <div align="left">
@@ -34,7 +34,7 @@
 
 <h3 align="left">You can check out my initial stats below:</h3>
 
-![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![GR-Salman's Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact)
 
-[![GR-Salman's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
