@@ -34,7 +34,8 @@
 
 <h3 align="left">You can check out my initial stats below:</h3>
 
-![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![GR-Salman's Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact)
+![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact&theme=midnight-purple)
+
 
 
 
