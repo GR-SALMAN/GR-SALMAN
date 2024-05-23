@@ -11,13 +11,21 @@
 
 ###
 
-<h3 align="left">About me</h3>
-<p align="left">✨ Creating bugs: Since 2020<br>🌱 I’m currently learning full stack web developing
-  <br>🎯 Goals: To be a native full-stack web developer
-  <br>🤔 I’m looking for help: React.js and Python also
-  <br>📫 How to reach me: It's quite easy! Right under my Avatar (Dp or whatever) you're gonna find links to check in
-  <br>😄 Pronouns: The full form of my surname G.R. stands for Golam Rabbani.
-<h3 align="left">I code with (For now)</h3>
+
+
+<h3 style="text-align: left;">About me</h3>
+
+✨**Creating bugs:** Since 2020  
+ **🌱Learning:** I’m currently full stack web developing  
+ **🎯Goals:** To be a native full-stack web developer  
+ **🤔I’m looking for help:** React.js and Python also  
+ **📫How to reach me:** It's quite easy! Right under my Avatar (Dp or whatever) you're gonna find links to check in  
+ **😄Pronouns:** The full form of my surname G.R. stands for Golam Rabbani.
+
+<h3>I code with (For now)</h3>
+
+
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="javascript" />
   <img width="6" />
