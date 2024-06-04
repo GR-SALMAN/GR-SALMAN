@@ -15,12 +15,12 @@
 
 <h3 style="text-align: left;">About me</h3>
 
-✨**Creating bugs:** Since 2020  
- **🌱Learning:** I’m currently full stack web developing  
+✨**Creating bugs:** Since 2023  
+ **🌱Learning:** Currently full stack web developing  
  **🎯Goals:** To be a native full-stack web developer  
  **🤔I’m looking for help:** React.js and Python also  
- **📫How to reach me:** It's quite easy! Right under my Avatar (Dp or whatever) you're gonna find links to check in  
- **😄Pronouns:** The full form of my surname G.R. stands for Golam Rabbani.
+ **📫How to reach me:** It's quite easy! 😏  
+ **😄Pronouns:** Don;t be confused, the full form of my surname G.R. stands for Golam Rabbani. 🤭
 
 <h3>I code with (For now)</h3>
 
