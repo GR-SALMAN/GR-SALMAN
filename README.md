@@ -20,7 +20,7 @@
  **🎯Goals:** To be a native full-stack web developer  
  **🤔I’m looking for help:** React.js and Python also  
  **📫How to reach me:** It's quite easy! 😏  
- **😄Pronouns:** Don;t be confused, the full form of my surname G.R. stands for Golam Rabbani. 🤭
+ **😄Pronouns:** Don't be confused, the full form of my surname G.R. stands for Golam Rabbani. 🤭
 
 <h3>I code with (For now)</h3>
 
