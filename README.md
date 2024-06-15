@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm G. R. Salman, noob programmer from Bangladesh. Did graduation in Computer Science and now sticking with programming stuff XD.</p>
+<p align="left">I'm G. R. Salman from Bangladesh. Did graduation in Computer Science and now sticking with programming stuff XD.</p>
 
 
 ###
