@@ -2,16 +2,8 @@
 
 ###
 
-<p align="left">I'm G. R. Salman from Bangladesh. Did graduation in Computer Science and now sticking with programming stuff XD.</p>
-
-
-###
-
-###
-
-###
-
-
+<p align="left">I'm an aspiring web developer passionate about learning and building web applications. I'm constantly exploring new technologies and improving my skills through hands-on projects and collaboration.
+</p>
 
 <h3 style="text-align: left;">About me</h3>
 
@@ -39,8 +31,20 @@
 </div>
 
 <h3 align="left">You can check out my initial stats below:</h3>
+<div style="border: 2px solid #ccc; border-radius: 15px; padding: 20px; display: inline-block;">
 
-![GR-Salman's Stats](https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=transparent&show_icons=true&hide_border=false&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact&theme=transparent)
+  <table style="border: 2px solid #ccc; border-radius: 15px; padding: 20px; display: inline-block;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=GR-Salman&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="My GitHub Stats">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 
