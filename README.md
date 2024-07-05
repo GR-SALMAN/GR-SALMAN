@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm an aspiring web developer passionate about learning and building web applications. I'm constantly exploring new technologies and improving my skills through hands-on projects and collaboration.
-</p>
+<h3 align="left">I'm an aspiring web developer passionate about learning and building web applications. I'm constantly exploring new technologies and improving my skills through hands-on projects and collaboration.
+</h3>
 
 <h3 style="text-align: left;">About me</h3>
 
