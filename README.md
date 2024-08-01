@@ -7,18 +7,16 @@
 
 <h3 style="text-align: left;">About me</h3>
 
-✨**Creating bugs:** Since 2023  
+**✨Creating bugs:** Since 2023  
  **🌱Learning:** Currently full stack web developing  
  **🎯Goals:** To be a native full-stack web developer  
  **🤔I’m looking for help:** React.js and Python also  
  **📫How to reach me:** It's quite easy! 😏  
- **😄Pronouns:** Don't be confused, the full form of my surname G.R. stands for Golam Rabbani. 🤭
+ **😄Pronouns:** Don't be confused, the full form of my surname G.R. stands for Golam Rabbani.🤭
 
+
+-----------------------------------
 <h3>I code with (For now)</h3>
-
-
-  
-
 
   <table style="border: 2px solid #ccc; border-radius: 15px; padding: 20px; display: inline-block;">
     <tr>
@@ -40,10 +38,6 @@
     </tr>
   </table>
 
-
-
-
-
 <h3 align="left">You can check out my initial stats below:</h3>
 <div style="border: 2px solid #ccc; border-radius: 15px; padding: 20px; display: inline-block;">
 
@@ -59,8 +53,3 @@
   </table>
 
 </div>
-
-
-
-
-
