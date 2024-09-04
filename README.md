@@ -50,6 +50,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR-Salman&layout=compact&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Top Langs">
       </td>
     </tr>
+    <tr >
+      <td colspan="2" align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GR-Salman&&layout=compact&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="g.r.salman" /></p></td>
+    </tr>
   </table>
 
 </div>
