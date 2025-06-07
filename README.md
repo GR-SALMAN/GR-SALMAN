@@ -9,7 +9,7 @@
 
 **✨Creating bugs:** Since 2023  
  **🌱Learning:** we Development & Deep Diving Data Analysis
- **🎯Goals:** To be a native developer & Data Professional 
+ **🎯Goals:** To be a native developer & Data Professional    
  **🤔I’m looking for help:** React.js and Python also  
  **📫How to reach me:** It's quite easy! 😏  
  **😄Pronouns:** Don't be confused, the full form of my surname G.R. stands for Golam Rabbani.🤭
